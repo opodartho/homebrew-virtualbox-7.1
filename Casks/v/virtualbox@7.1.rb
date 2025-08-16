@@ -1,5 +1,5 @@
 
-cask "virtualbox" do
+cask "virtualbox@7.1" do
   arch arm: "macOSArm64", intel: "OSX"
 
   version "7.1.12,169651"
